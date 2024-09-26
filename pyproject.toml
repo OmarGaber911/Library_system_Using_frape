@@ -1,9 +1,9 @@
 [project]
 name = "demo_app"
 authors = [
-    { name = "me", email = "gaberomar03@gmail.com"}
+    { name = "fds", email = "test@gamil.com	"}
 ]
-description = "demo app for testing"
+description = "dfsf"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]
